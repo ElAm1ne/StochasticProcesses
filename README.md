@@ -7,7 +7,6 @@ Stochastic.ipynb : Notebook Jupyter qui contient toutes les simulations et les c
 ## Instructions d'utilisation
 Clonez le dépôt : 
 ```
-
 git clone https://github.com/votre_nom_utilisateur/votre_repo](https://github.com/ElAm1ne/StochasticProcesses.git
 ```
 
